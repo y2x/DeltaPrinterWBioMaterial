@@ -48,8 +48,14 @@ Here are the important sizing values :
 ```
 
 ### Slicer
-The slicer was implemented using [Grasshopper3D](http://www.grasshopper3d.com/) on [Rhino3D](http://www.rhino3d.com/). It generates point from (almost) any brep surface and applies different transformations to the models to print interesting structures.
+The slicer was implemented using [Grasshopper3D](http://www.grasshopper3d.com/) on [Rhino3D](http://www.rhino3d.com/). It generates point from (almost) any brep surface and applies different transformations to the models to print interesting structures. Main features are to add zigzags (horizontally and vertically) change the layer height and the speed.
 ![model in green, generated path in red](photos/grasshopperPath.JPG)
 
 ### Printed results
-[printed results](photos/printings.jpg)
+![printed results](photos/printings.jpg)
+
+### Authors
+* **Philippe Heer** - *IC Master student*
+* **Leonardo Wirz** - *IC Bachelor student*
+* **Yuan Wanh-Shi** - *Supervisor*
+* **Huang Jeffrey** - *Professor*
