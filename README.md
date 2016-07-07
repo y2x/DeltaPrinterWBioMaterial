@@ -57,5 +57,5 @@ The slicer was implemented using [Grasshopper3D](http://www.grasshopper3d.com/) 
 ### Authors
 * **Philippe Heer** - *IC Master student*
 * **Leonardo Wirz** - *IC Bachelor student*
-* **Yuan Wanh-Shi** - *Supervisor*
+* **Yuan Wang-Shih** - *Supervisor*
 * **Huang Jeffrey** - *Professor*
