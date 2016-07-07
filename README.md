@@ -13,14 +13,14 @@ The main goal was to improve his existing printer and to be able to print differ
 - idler end : *[`http://www.thingiverse.com/thing:143186`](http://www.thingiverse.com/thing:143186)*
 - motor end : *[`http://www.thingiverse.com/thing:71687`](http://www.thingiverse.com/thing:71687)*
 - platform : *[`http://www.thingiverse.com/thing:32850`](http://www.thingiverse.com/thing:32850)*
+- ventilation : 
 ![Printed pieces](photos/pieces3d.png)
 
 
-### Laser-cut pieces :
-- base assembly
+### Laser-cut pieces for the frame:
 - [Base assembly](hardware/baseAssembly.3dm)
 - [Middle assembly](hardware/middleAssembly.3dm)
-- [Tol assembly](hardware/topAssembly.3dm)
+- [Top assembly](hardware/topAssembly.3dm)
 ![Wooden pieces](photos/piecesWood.png)
 
 ### Electronics & guiding
@@ -49,4 +49,7 @@ Here are the important sizing values :
 
 ### Slicer
 The slicer was implemented using [Grasshopper3D](http://www.grasshopper3d.com/) on [Rhino3D](http://www.rhino3d.com/). It generates point from (almost) any brep surface and applies different transformations to the models to print interesting structures.
-![model in green, generated path in red](grasshopperPath.JPG)
+![model in green, generated path in red](photos/grasshopperPath.JPG)
+
+### Printed results
+[printed results](photos/printings.jpg)
