@@ -9,16 +9,16 @@ The main goal was to improve his existing printer and to be able to print differ
 
 ## Construction
 ### Printed pieces :
-	- carriage : [`http://www.thingiverse.com/thing:80425`](http://www.thingiverse.com/thing:80425)*
-	- idler end : *Shortlink: [`http://www.thingiverse.com/thing:143186`](http://www.thingiverse.com/thing:143186)*
-	- motor end : [`http://www.thingiverse.com/thing:71687`](http://www.thingiverse.com/thing:71687)*
-	- platform : [`http://www.thingiverse.com/thing:32850`](http://www.thingiverse.com/thing:32850)*
+- carriage : *Shortlink: [`http://www.thingiverse.com/thing:80425`](http://www.thingiverse.com/thing:80425)*
+- idler end : *Shortlink: [`http://www.thingiverse.com/thing:143186`](http://www.thingiverse.com/thing:143186)*
+- motor end : *Shortlink: [`http://www.thingiverse.com/thing:71687`](http://www.thingiverse.com/thing:71687)*
+- platform : *Shortlink: [`http://www.thingiverse.com/thing:32850`](http://www.thingiverse.com/thing:32850)*
 
 ### Laser-cut pieces :
-	- base assembly
-	- middle assembly
-	- top assembly
+- base assembly
+- middle assembly
+- top assembly
 
 ### Electronics & guiding
-	- [See the list](hardware/partsListToBuy.odt)
+- [See the list](hardware/partsListToBuy.odt)
 
